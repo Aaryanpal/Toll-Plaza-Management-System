@@ -1,0 +1,49 @@
+
+				One Way Price			Round Trip
+In Vechile Type                   Not Overloaded	Overloaded	Not Overloaded	Overloaded
+1:-Car			50		100			80	160
+2:-Motorbike		40		80			70	140
+3:-Bus			100		200			170	340
+4:-Truck			200		400			360	720
+5:-Van			150		300			265	530
+6:-Government Vechile	0		----			-----	----
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+Program Starting Time:-Mon Apr 15 09:13:10 2019
+
+
+Recipt No.1
+Type of the vehicle:Bike
+Vechile No:-fh5612
+Cash Recived:-40
+Time at which the Vehicle crossed:-Mon Apr 15 09:13:34 2019
+
+Program Starting Time:-Mon Apr 15 09:38:25 2019
+
+
+Recipt No.1
+Type of the vehicle:Bike
+Vechile No:-ghjg546
+Cash Recived:-40
+Time at which the Vehicle crossed:-Mon Apr 15 09:38:44 2019
+
+Program Starting Time:-Thu Apr 18 23:55:53 2019
+
+
+Recipt No.1
+Type of the vehicle:Bike
+Vechile No:-3246
+Cash Recived:-40
+Time at which the Vehicle crossed:-Thu Apr 18 23:56:07 2019
+
+Program Starting Time:-Wed Jul 28 13:25:17 2021
+
+
+Recipt No.1
+Type of the vehicle:Bike
+Vechile No:-jghj789
+Cash Recived:-40
+Time at which the Vehicle crossed:-Wed Jul 28 13:25:40 2021
+
